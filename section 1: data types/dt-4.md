@@ -1,0 +1,23 @@
+<div align='center'>
+<h2 style='border: solid white 1px;'>Section 1: Data Types<h2>
+
+<br>
+<h3 style='text-decoration: underline;'>bool</h3>
+<br>
+
+<h4>
+- represent truth values
+<br>
+- used to designate state
+<br>
+e.g. True, False
+<br>
+</h4>
+
+<br>
+<h4>
+* will be used when we look at conditionals next
+</h4>
+<br>
+
+</div>

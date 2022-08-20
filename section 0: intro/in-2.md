@@ -1,0 +1,19 @@
+<div align='center'>
+<h2>Tools<h2>
+<br>
+<h3>
+<div>
+1. Python
+<br>
+<br>
+<div style='border: dashed white 1px; padding: 0.4em;'>"Python is a high-level, interpreted, general-purpose programming language." - Wiki</div>
+<br><br>
+2. Visual Studio Code (VSCode)
+<br><br>
+<div style='border: dashed white 1px; padding: 0.4em;'>"Visual Studio Code, also commonly referred to as VS Code, is a source-code editor made by Microsoft for Windows, Linux and macOS." - Wiki</div>
+</div>
+</h3>
+
+<br>
+
+</div>

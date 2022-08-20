@@ -1,0 +1,28 @@
+<div align='center'>
+<h2 style='border: solid white 1px;'>Section 4: Lists<h2>
+
+<br>
+<h3 style='text-decoration: underline;'>Syntax</h3>
+<br>
+
+<h4>variable_name = []</h4>
+<h4>variable_name = list()</h4>
+
+- can store elements of different data types
+
+<br>
+
+<h3 style='text-decoration: underline;'>Useful Methods</h3>
+<br>
+<h4>
+- len() 
+<br>
+- append()
+<br>
+- insert()
+<br>
+- remove()
+</h4>
+<br>
+
+</div>

@@ -1,0 +1,29 @@
+<div align='center'>
+<h2 style='border: solid white 1px;'>Section 2: Variables<h2>
+
+<br>
+<h3 style='text-decoration: underline;'>Motivation</h3>
+<br>
+
+<h4>
+- can be useful to save data rather than using it right on the spot
+<br>
+- this data is saved as part of the computer's memory
+<br>
+- place where stored in memory given a special name to identify that location
+<br>
+</h4>
+
+<br>
+
+<h3 style='text-decoration: underline;'>Definition</h3>
+
+<br>
+
+<div style='border: dashed white 1px; padding: 0.4em;'>
+    <h4>In computer programming, a variable is an abstract storage location paired with an associated symbolic name, which contains some known or unknown quantity of information referred to as a value</h4>
+</div>
+
+<br>
+
+</div>

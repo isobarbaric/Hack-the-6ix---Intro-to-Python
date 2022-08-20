@@ -1,0 +1,31 @@
+<div align='center'>
+<h2 style='border: solid white 1px;'>Section 1: Data Types<h2>
+<br>
+
+<h3 style='text-decoration: underline;'>What?</h3>
+<h4>
+- programming involves working with data
+<br>
+<br>
+- this data, based on its characteristics, can be classified into different data types
+<br>
+<br>
+- custom data types can be created from primitive data types
+</h4>
+
+<br>
+
+<h3 style='text-decoration: underline;'>Primitive Data Types</h3>
+<h4>
+- int
+<br>
+- float
+<br>
+- bool(ean)
+<br>
+- string
+</h4>
+
+<br>
+
+</div>
